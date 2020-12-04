@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudApiWebApp", "CloudApiWebApp.csproj", "{51CF29A8-22C5-4ECA-9C9D-ADD982594F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CF29A8-22C5-4ECA-9C9D-ADD982594F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CF29A8-22C5-4ECA-9C9D-ADD982594F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CF29A8-22C5-4ECA-9C9D-ADD982594F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CF29A8-22C5-4ECA-9C9D-ADD982594F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211EC87A-8A68-4BC7-81EF-B5EA4FBE4A2C}
+	EndGlobalSection
+EndGlobal
